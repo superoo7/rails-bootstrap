@@ -1,24 +1,17 @@
-# README
+# Ruby On Rails Bootstrap 4 beta 2 starter
+Resolve [StackOverflow question](https://stackoverflow.com/questions/47252741/bootstrap-not-working-with-ruby/47256710#47256710)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Tested on Mac
+- ruby: 2.4.2
+- rails: 5.1.4
 
-Things you may want to cover:
+## clone and test
+- `git clone https://github.com/superoo7/rails-bootstrap` 
+- `cd rails-boostrap`
+- `bundle install`
+- `rails db:migrate`
+- `rails s`
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Reference
+[bootstrap-sass](https://github.com/twbs/bootstrap-sass)
